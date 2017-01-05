@@ -1,3 +1,3 @@
-# 003_100DaysOfCode
+# 002_100DaysOfCode
 JavaScript is kicking my but.
 
